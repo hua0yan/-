@@ -1,4 +1,5 @@
 <template>
+  <!-- 注册图标组件 -->
   <i :class="['toutiao', `toutiao-${icon}`]"></i>
 </template>
 
